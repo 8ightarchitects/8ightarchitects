@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://8ightarchitects.github.io/8ightarchitects/sitemap.xml
